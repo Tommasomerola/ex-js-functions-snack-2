@@ -17,3 +17,5 @@ function stampaOgniSecondo(ms) {
 
 const passato1Secondo = stampaOgniSecondo(1000);
 passato1Secondo();
+
+/* attenzione, bisogna passare il messaggio non il tempo */

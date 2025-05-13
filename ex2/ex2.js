@@ -6,8 +6,9 @@ Definisci una funzione chiamata quadrato che accetta un numero e restituisce il 
 
 
 /* ARROW */
-
-const quadrato = (a) => a * a;
+/* POSSO NON METTERE LE PARENTESI */
+/* const quadrato = (a) => a * a; */
+const quadrato = a => a * a;
 
 console.log(quadrato(3))
 
